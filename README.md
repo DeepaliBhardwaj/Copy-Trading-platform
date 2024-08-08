@@ -1,7 +1,3 @@
-Absolutely! Here's the revised documentation with the appropriate markdown tags for GitHub's `README.md`:
-
----
-
 # Vega - CopyTrading Program
 
 ## Overview
