@@ -1,0 +1,22 @@
+{
+    "todaySumData": [
+        {
+            "date": "06-08-24",
+            "totalBidPriceToday": 31.0,
+            "totalValueToday": 40.0,
+            "totalProfitToday": 9.0,
+            "totalLossToday": 0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-08-24",
+            "totalBidPriceToday": 89.0,
+            "totalValueToday": 100.0,
+            "totalProfitToday": 11.0,
+            "totalLossToday": 0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        }
+    ]
+}
